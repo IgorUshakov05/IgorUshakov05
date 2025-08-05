@@ -15,7 +15,6 @@
 - **Node.js / Express**
 - **MongoDB / Mongoose / PostgreSQL / SQL / Bruno**
 - **JWT / Passport / bcrypt / Nodemailer**
-- **Python / PySide6**
 - **REST API / WebSockets / OpenAPI (Swagger) / Telegram Bot API**
 - **Axios / Express-validator**
 - **Git / GitHub / GitHub Actions**
